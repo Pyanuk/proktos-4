@@ -1,0 +1,17 @@
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\bin\Debug\net7.0\test na beremennoct.exe
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\bin\Debug\net7.0\test na beremennoct.deps.json
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\bin\Debug\net7.0\test na beremennoct.runtimeconfig.json
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\bin\Debug\net7.0\test na beremennoct.dll
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\bin\Debug\net7.0\test na beremennoct.pdb
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.csproj.AssemblyReference.cache
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.AssemblyInfoInputs.cache
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.AssemblyInfo.cs
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.csproj.CoreCompileInputs.cache
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.csproj.CopyComplete
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.dll
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\refint\test na beremennoct.dll
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.pdb
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\test na beremennoct.genruntimeconfig.cache
+C:\Users\rhali\source\repos\test na beremennoct\test na beremennoct\obj\Debug\net7.0\ref\test na beremennoct.dll
